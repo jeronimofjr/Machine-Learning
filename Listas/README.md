@@ -2,11 +2,7 @@
 
 Conceitos iniciais
 
-###  Lista - 02
-
-### Lista - 03
-
-### Lista - 04
+### Lista - 02
 
 Algoritmos
 - KNN
@@ -15,11 +11,11 @@ Data set
 - wine quality
 
 
-### Lista - 05
+### Lista - 03
 
 - Regressão com KNN
 
-### Lista - 06
+### Lista - 04
 
 - KNeighborsRegressor
 - KNeighborsClassifier
@@ -31,14 +27,14 @@ Data set
 	- MAE
 	- RMSE
 
-### Lista - 07
+### Lista - 05
 
 - KNeighborsClassifier
 - GridSearch
 - Validação Cruzada
 - Pipeline
 
-### Lista - 08
+### Lista - 06
 
 - Modelos Lineares
 	- Logistic Regression
@@ -46,7 +42,7 @@ Data set
 	- Lasso Regression
 - Funções de Regularização
 
-### Lista - 09
+### Lista - 07
 
 - Logistic Regression
 - KNeighborsClassifier
@@ -56,7 +52,7 @@ Data set
 - PCA (Principal component analysis)
 - Regiões de decisão
 
-### Lista - 10
+### Lista - 08
 
 - Ensemble Learning
 	- Bagging
@@ -66,7 +62,7 @@ Data set
 		- Gradient Boosting
 - Árvores de Decisão
 
-### Lista - 11
+### Lista - 09
 
 - Random Forest
 - Gradient Boosting
